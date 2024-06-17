@@ -3,5 +3,5 @@ env/
 file.json
 test/
 ./test_*.py
-# old_py/
+old_py/
 .vscode
